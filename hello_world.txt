@@ -1,0 +1,2 @@
+Hello world! I'm learning full-stack Web Development with The Odin Project!
+Wish me luck!
